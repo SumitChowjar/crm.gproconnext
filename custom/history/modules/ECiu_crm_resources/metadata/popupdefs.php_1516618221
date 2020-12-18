@@ -1,0 +1,73 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'ECiu_resources',
+    'varName' => 'ECiu_resources',
+    'orderBy' => 'eciu_resources.name',
+    'whereClauses' => array (
+  'name' => 'eciu_resources.name',
+  'resource_id' => 'eciu_resources.resource_id',
+),
+    'searchInputs' => array (
+  1 => 'name',
+  4 => 'resource_id',
+),
+    'searchdefs' => array (
+  'resource_id' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_RESOURCE_ID',
+    'width' => '10%',
+    'name' => 'resource_id',
+  ),
+  'name' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'name' => 'name',
+  ),
+),
+    'listviewdefs' => array (
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+    'name' => 'name',
+  ),
+  'URL' => 
+  array (
+    'type' => 'text',
+    'studio' => 'visible',
+    'label' => 'LBL_URL',
+    'sortable' => false,
+    'width' => '10%',
+    'default' => true,
+  ),
+  'FILE_NAME' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_FILE_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ACCESS_LEVEL_C' => 
+  array (
+    'type' => 'enum',
+    'default' => true,
+    'studio' => 'visible',
+    'label' => 'LBL_ACCESS_LEVEL',
+    'width' => '10%',
+  ),
+  'HOURS_C' => 
+  array (
+    'type' => 'varchar',
+    'default' => true,
+    'label' => 'LBL_HOURS',
+    'width' => '10%',
+  ),
+),
+);

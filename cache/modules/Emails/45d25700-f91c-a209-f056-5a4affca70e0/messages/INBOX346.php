@@ -1,0 +1,77 @@
+<?php // created: Wed, 03 Jan 2018 21:58:27 +0000
+	$cacheFile = array (
+  'timestamp' => 1515016707,
+  'out' => 'a:1:{s:4:"meta";a:7:{s:4:"type";s:7:"inbound";s:3:"uid";s:3:"346";s:4:"ieId";s:36:"45d25700-f91c-a209-f056-5a4affca70e0";s:5:"email";a:11:{s:4:"name";s:69:"(GProCentral) Re: Task: Adding an organization in CRM (General tasks)";s:9:"from_name";s:52:"German Ricca via Teamwork <application@teamwork.com>";s:9:"from_addr";s:58:"German Ricca via Teamwork &lt;application@teamwork.com&gt;";s:10:"date_start";s:19:"2018-01-03 21:52:00";s:10:"time_start";s:0:"";s:10:"message_id";s:32:"35225589ab93db707e5ce4d068b735a0";s:8:"cc_addrs";N;s:11:"attachments";s:0:"";s:7:"toaddrs";s:23:"teko@gprocommission.org";s:11:"description";s:7115:"
+
+					===== WRITE YOUR REPLY ABOVE THIS LINE =====<div style="padding:5px 0 10px 10px;clear:both;"><img src="http://tw-webserver8.teamworkpm.net/sites/gprocommission2020/images/1475136166448_GProCommission_Logo_Large_201609c.png" border="0" alt="1475136166448%5FGProCommission%5FLogo%5F" /></div><div class="mailWrap" style="padding:10px;font-family:arial;font-size:12px;"> <table class="wrapper" cellspacing="0" border="0" cellpadding="0" width="100%"><tbody><tr><td>
+									<table class="content" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:0 0 10px 0;">
+													
+
+													
+													<table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:0;border-bottom:1px solid #E6E6E6;margin:0;"><tbody><tr><td class="dateTime" width="50" valign="top" align="right" style="padding:10px 10px 0 0px;font-family:\'Lucida Grande\', \'Lucida Sans\', Arial, sans-serif;color:#9E9E9E;font-size:11px;line-height:16px;margin:0;">Jan 03<br /> 3:52PM</td>
+																<td style="padding:10px 20px 0 0px;">
+																	<p class="dateTimeMobile" style="font-size:0px;height:0px;line-height:0px;color:#ffffff;margin:0;padding:0;">Jan 03 3:52PM</p>
+
+																	<h3 style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#717171;font-size:16px;line-height:22px;margin:0 0 4px 0;font-weight:normal;">
+																		<strong style="color:#000000;">German Ricca</strong> commented on this <a href="https://gprocommission2020.teamwork.com/tasks/7839629?c=3056422" style="color:#717171;text-decoration:underline;">task</a>
+																	</h3>
+
+																	<div style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#222222;font-size:12px;line-height:16px;padding:0;">
+																		<div class="fr-view">thank you!!! <br /><br /><br /></div> 
+																	</div>
+																	
+																	
+																	<br /></td>
+															</tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:0;border-bottom:1px solid #E6E6E6;margin:0;"><tbody><tr><td class="dateTime" width="50" valign="top" align="right" style="padding:10px 10px 0 0px;font-family:\'Lucida Grande\', \'Lucida Sans\', Arial, sans-serif;color:#9E9E9E;font-size:11px;line-height:16px;margin:0;">Jan 03<br /> 3:55AM</td>
+																		<td style="padding:10px 20px 0 0px;">
+
+																			<p class="dateTimeMobile" style="font-size:0px;height:0px;line-height:0px;color:#ffffff;margin:0;padding:0;">Jan 03 3:55AM</p>
+
+																			<h3 style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#717171;font-size:16px;line-height:22px;margin:0 0 4px 0;font-weight:normal;">
+																				<strong style="color:#000000;">Nadine Karam</strong> commented
+																			</h3>
+
+																			<div style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#222222;font-size:12px;line-height:16px;padding:0;">
+
+																				<div class="fr-view"><span class="atwho-inserted">@edier</span> great thank you!</div> 
+																			</div>
+
+																			
+																			
+
+																			<br /></td>
+																	</tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:0;margin:0;"><tbody><tr><td class="dateTime" width="50" valign="top" align="right" style="padding:10px 10px 0 0px;font-family:\'Lucida Grande\', \'Lucida Sans\', Arial, sans-serif;color:#9E9E9E;font-size:11px;line-height:16px;margin:0;">Jan 02<br /> 6:03PM</td>
+																		<td style="padding:10px 20px 0 0px;">
+
+																			<p class="dateTimeMobile" style="font-size:0px;height:0px;line-height:0px;color:#ffffff;margin:0;padding:0;">Jan 02 6:03PM</p>
+
+																			<h3 style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#717171;font-size:16px;line-height:22px;margin:0 0 4px 0;font-weight:normal;">
+																				<strong style="color:#000000;">Teko Bailey</strong> commented
+																			</h3>
+
+																			<div style="font-family:\'Helvetica Neue\', Helvetica, Arial, sans-serif;color:#222222;font-size:12px;line-height:16px;padding:0;">
+
+																				<div class="fr-view"><span class="atwho-inserted">@edier</span> Thanks for this info. </div> 
+																			</div>
+
+																			
+																			
+
+																			<br /></td>
+																	</tr></tbody></table></td>
+											</tr></tbody></table><br /></td>
+							</tr></tbody></table><div style="border:1px solid #999;border-left:10px solid #999;padding:10px;color:#555;"> <span style="float:right;color:#888;">(#7839629)</span> <h3 style="margin:0;padding:0;color:#333;">Task Details</h3> <p><strong>Due Date:</strong> Not set</p> <p><strong>Priority:</strong> Not set</p> <p><strong>Board Column:</strong> 
+				<span style="background-color:#fcfcfc;color:#888;border:1px solid #f2f2f2;margin-top:2px;padding:2px 4px;height:11px;margin-right:5px;">
+					<span style="width:11px;height:11px;background-color:#0AD2F5;"> </span>
+					<span style="font-family:arial;font-size:11px;">Sprint (This week)</span>
+				</span>
+			</p> <p><strong>Assigned To:</strong> Teko Bailey, Shuhratjon Nigmatov, Norton Lages, Nadine Karam, Karina Ricca, Janet Teresa, German Ricca, Elie Karam</p> <p><strong>Assigned By:</strong> Edie Ross</p> <p><strong>View Task:</strong> <a style="color:#346CC4;" href="https://gprocommission2020.teamwork.com/tasks/7839629#comment3056422">Adding an organization in CRM</a></p> <p><strong>Task List:</strong> <a style="color:#346CC4;" href="https://gprocommission2020.teamwork.com/tasklists/785930">General tasks</a></p> <p><strong>Task Description:</strong><br /><br /></p><p>Tutorial video: <a href="https://drive.google.com/open?id=1m6foiK05sytrbaUPbfyKRNbZy3b35RZd" title="">https://drive.google.com/open?id=1m6foiK05sytrbaUPbfyKRNbZy3b35RZd</a></p>
+ <h3 style="margin:10px 0 0 0;padding:0;color:#333;">Project Details</h3> <p><strong>Project:</strong> <a style="color:#346CC4;" href="https://gprocommission2020.teamwork.com/projects/226099">GProCentral</a></p> <p><strong>Company:</strong> GProCommission</p> </div> <p><strong>Copied To:</strong> Edie Ross, Karina Ricca, Teko Bailey, Elie Karam, Nadine Karam, Shuhratjon Nigmatov, Janet Teresa, Norton Lages</p><p><strong style="color:#888888;">Not interested?:</strong> <a href="https://gprocommission2020.teamwork.com/ufen?uid=271A43BC6C978FD384009E28200BD4E57ED0E06B4C00966BBC58F7FD7C516871" style="color:#888888;">Stop receiving comments on this task</a></p> <div style="clear:both;"><small>YOU CAN POST A REPLY TO THIS MESSAGE BY REPLYING TO THIS EMAIL.</small></div><div style="margin-top:10px;"><a style="color:#888888;" href="https://gprocommission2020.teamwork.com/forgot_password">P.S. Just in case: You can retrieve your password by clicking here</a></div><div style="font-size:1px;">Reply to: tw.11.14117368.157@replies.teamwork.com</div> 
+						<div>
+						  <div>
+						    <link href="https://gprocommission2020.teamwork.com/tasks/7839629" /></div>
+						  </div>
+					
+				</div>";s:13:"reply_to_addr";s:62:"GProCommission &lt;tw.11.14117368.157@replies.teamwork.com&gt;";}s:4:"mbox";s:5:"INBOX";s:2:"cc";s:0:"";s:13:"is_sugarEmail";b:0;}}',
+);
+?>

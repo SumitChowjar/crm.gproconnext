@@ -1,0 +1,52 @@
+<?php
+$module_name = 'ECiu_crm_training_actuals';
+$listViewDefs [$module_name] = 
+array (
+  'NAME' => 
+  array (
+    'width' => '32%',
+    'label' => 'LBL_NAME',
+    'default' => true,
+    'link' => true,
+  ),
+  'NUMBER_OF_PASTORS' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_NUMBER_OF_PASTORS',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ECIU_CRM_TRAINING_ACTUALS_CONTACTS_NAME' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'label' => 'LBL_ECIU_CRM_TRAINING_ACTUALS_CONTACTS_FROM_CONTACTS_TITLE',
+    'id' => 'ECIU_CRM_TRAINING_ACTUALS_CONTACTSCONTACTS_IDA',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DATE_FROM' => 
+  array (
+    'type' => 'date',
+    'label' => 'LBL_DATE_FROM',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DATE_TO' => 
+  array (
+    'type' => 'date',
+    'label' => 'LBL_DATE_TO',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ECIU_CRM_TRAINING_ACTUALS_ECIU_CRM_DEGREE_LEVELS_NAME' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'label' => 'LBL_ECIU_CRM_TRAINING_ACTUALS_ECIU_CRM_DEGREE_LEVELS_FROM_ECIU_CRM_DEGREE_LEVELS_TITLE',
+    'id' => 'ECIU_CRM_T341A_LEVELS_IDA',
+    'width' => '10%',
+    'default' => true,
+  ),
+);
+?>

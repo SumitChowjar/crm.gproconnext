@@ -1,0 +1,24 @@
+File-extensions or description,Category,Sub-Category,Public Upload,Required Information,Optional Information
+doc,Files,Word File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+docs,Files,Word File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+pdf,Files,"PDF File (user-created pdfs, eBooks)",Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+ppt,Files,PowerPoint File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+pptx,Files,PowerPoint File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+xls,Files,Excel File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+xlsx,Files,Excel File,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+jpg,Files,Media - Photo,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+jpeg,Files,Media - Photo,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+png,Files,Media - Photo,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+gif,Files,Media - Photo,Yes,,"Author of Article: Source (website, organization, etc.): Date Published: "
+mov,Files,Media - Music,No,,"Author of Article: Source (website, organization, etc.): Date Published: "
+avi,Files,Media - Music,No,,"Author of Article: Source (website, organization, etc.): Date Published: "
+wmv,Files,Media - Music,No,,"Author of Article: Source (website, organization, etc.): Date Published: "
+mpeg,Files,Media - Music,No,,"Author of Article: Source (website, organization, etc.): Date Published: "
+mp4,Files,Media - Music,No,,"Author of Article: Source (website, organization, etc.): Date Published: "
+Article,Articles,Internal Article,No,,
+URL,URL / Links,Book,No,"URL: ISBN: Author/s: ","Date Published: Publisher: Edition: "
+URL,URL / Links,Facility,No,"URL: Owner: Name of Facility: City: Country: ","Contact Person: Contact Address: Contact Email: Contact Phone: "
+URL,URL / Links,Device,No,"URL: Owner: Name of Facility: City: Country: ","Contact Person: Contact Address: Contact Email: Contact Phone: "
+URL,URL / Links,External Article,No,"URL: Author: ",Date Published: 
+Physical address where Device can be located on earth,Address,Facility,No,"Address: Contact Person: For Rent (Yes or No): ","Facility Name: Contact Organization: Contact Phone Number: Contact Email: Rental Fee?: "
+Phisical address where device can be located on earth,Address,Device,No,"Address: Contact Person: For Rent (Yes or No): ","Facility Name: Contact Organization: Contact Phone Number: Contact Email: Rental Fee?: "

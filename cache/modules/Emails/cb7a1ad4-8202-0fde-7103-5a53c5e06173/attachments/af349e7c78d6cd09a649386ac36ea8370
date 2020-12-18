@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20171113T124500
+DTEND;TZID=America/Chicago:20171113T131500
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20171127T191004Z
+ORGANIZER;CN=GProCommission:mailto:eo8qefggjvpg9l9mei7tu5m8pc@group.calenda
+ r.google.com
+UID:7t7k9oqgi0p2nodaom8c844bsd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=janet@gprocommission.org;X-NUM-GUESTS=0:mailto:janet@gprocommission
+ .org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=karam@gprocommission.org;X-NUM-GUESTS=0:mailto:karam@gprocommission
+ .org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=german@gprocommission.org;X-NUM-GUESTS=0:mailto:german@gprocommission.o
+ rg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=karina@gprocommission.org;X-NUM-GUESTS=0:mailto:karina@gprocommissi
+ on.org
+CREATED:20171113T193338Z
+DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android: https://zoom.us/j/
+ 841231873\n\nOr iPhone one-tap (US Toll):  +14086380968\,841231873# or +164
+ 65588656\,841231873#\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of th
+ e description.\n\nView your event at https://www.google.com/calendar/event?
+ action=VIEW&eid=N3Q3azlvcWdpMHAybm9kYW9tOGM4NDRic2Qga2FyaW5hQGdwcm9jb21taXN
+ zaW9uLm9yZw&tok=NTIjZW84cWVmZ2dqdnBnOWw5bWVpN3R1NW04cGNAZ3JvdXAuY2FsZW5kYXI
+ uZ29vZ2xlLmNvbTI5ZGVjYzI1NDhkNmJhODQ5ZTgwMWQxZTU4OGViOWFmY2E2MWI2OTM&ctz=Am
+ erica/Chicago&hl=en.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20171127T191003Z
+LOCATION:Zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GProCentral TEAM A call 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,144 @@
+<?php
+$module_name = 'tra_Recieved';
+$viewdefs [$module_name] = 
+array (
+  'EditView' => 
+  array (
+    'templateMeta' => 
+    array (
+      'maxColumns' => '2',
+      'widths' => 
+      array (
+        0 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+        1 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+      ),
+      'useTabs' => false,
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_EDITVIEW_PANEL1' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
+    ),
+    'panels' => 
+    array (
+      'default' => 
+      array (
+        0 => 
+        array (
+          0 => 'name',
+          1 => 
+          array (
+            'name' => 'attending_training_number',
+            'label' => 'LBL_ATTENDING_TRAINING_NUMBER',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'from_date',
+            'label' => 'LBL_FROM_DATE',
+          ),
+          1 => 
+          array (
+            'name' => 'to_date',
+            'label' => 'LBL_TO_DATE',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'language_name',
+            'studio' => 'visible',
+            'label' => 'LBL_LANGUAGE_NAME',
+          ),
+          1 => 
+          array (
+            'name' => 'resource_type',
+            'studio' => 'visible',
+            'label' => 'LBL_RESOURCE_TYPE',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'contacts',
+            'label' => 'Who Administered The Training',
+          ),
+          1 => 
+          array (
+            'name' => 'resources_name',
+            'label' => 'Resources Offered',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'organization_name',
+            'studio' => 'visible',
+            'label' => 'LBL_ORGANIZATION_NAME',
+          ),
+          1 => 
+          array (
+            'name' => 'degree_levels',
+            'studio' => 'visible',
+            'label' => 'LBL_DEGREE_LEVELS',
+          ),
+        ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'partner_organization',
+            'studio' => 'visible',
+            'label' => 'LBL_PARTNER_ORGANIZATION',
+          ),
+          1 => 
+          array (
+            'name' => 'additional_notes',
+            'studio' => 'visible',
+            'label' => 'LBL_ADDITIONAL_NOTES',
+          ),
+        ),
+        6 => 
+        array (
+          0 => 
+          array (
+            'name' => 'country_name',
+            'studio' => 'visible',
+            'label' => 'LBL_COUNTRY_NAME',
+          ),
+          1 => '',
+        ),
+      ),
+      'lbl_editview_panel1' => 
+      array (
+        0 => 
+        array (
+          0 => 'assigned_user_name',
+          1 => '',
+        ),
+      ),
+    ),
+  ),
+);
+?>

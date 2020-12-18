@@ -1,0 +1,53 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'ECiu_crm_calendar_periods',
+    'varName' => 'ECiu_crm_calendar_periods',
+    'orderBy' => 'eciu_crm_calendar_periods.name',
+    'whereClauses' => array (
+  'name' => 'eciu_crm_calendar_periods.name',
+),
+    'searchInputs' => array (
+  0 => 'eciu_crm_calendar_periods_number',
+  1 => 'name',
+  2 => 'priority',
+  3 => 'status',
+),
+    'listviewdefs' => array (
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'BASE_WEEKNUM' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_BASE_WEEKNUM',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'BASE_MONTH' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_BASE_MONTH',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'BASE_QUARTER' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_BASE_QUARTER',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'BASE_YEAR' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_BASE_YEAR',
+    'width' => '10%',
+    'default' => true,
+  ),
+),
+);

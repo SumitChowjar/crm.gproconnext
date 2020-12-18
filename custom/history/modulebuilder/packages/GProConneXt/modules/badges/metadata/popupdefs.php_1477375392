@@ -1,0 +1,34 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'ECiu_badges',
+    'varName' => 'ECiu_badges',
+    'orderBy' => 'eciu_badges.name',
+    'whereClauses' => array (
+  'name' => 'eciu_badges.name',
+),
+    'searchInputs' => array (
+  0 => 'eciu_badges_number',
+  1 => 'name',
+  2 => 'priority',
+  3 => 'status',
+),
+    'listviewdefs' => array (
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DESCRIPTION' => 
+  array (
+    'type' => 'text',
+    'studio' => 'visible',
+    'label' => 'LBL_DESCRIPTION',
+    'sortable' => false,
+    'width' => '10%',
+    'default' => true,
+  ),
+),
+);

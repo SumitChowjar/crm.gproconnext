@@ -1,0 +1,48 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'gpro_Courses',
+    'varName' => 'gpro_Courses',
+    'orderBy' => 'gpro_courses.name',
+    'whereClauses' => array (
+  'name' => 'gpro_courses.name',
+),
+    'searchInputs' => array (
+  0 => 'gpro_courses_number',
+  1 => 'name',
+  2 => 'priority',
+  3 => 'status',
+),
+    'listviewdefs' => array (
+  'IMAGE' => 
+  array (
+    'type' => 'image',
+    'studio' => 'visible',
+    'width' => '10%',
+    'label' => 'LBL_IMAGE',
+    'default' => true,
+  ),
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'HOURS' => 
+  array (
+    'type' => 'decimal',
+    'label' => 'LBL_HOURS',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ACCESS_LEVEL' => 
+  array (
+    'type' => 'enum',
+    'studio' => 'visible',
+    'label' => 'LBL_ACCESS_LEVEL',
+    'width' => '10%',
+    'default' => true,
+  ),
+),
+);

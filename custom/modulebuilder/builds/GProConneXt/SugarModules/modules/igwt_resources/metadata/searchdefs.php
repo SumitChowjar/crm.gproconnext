@@ -1,0 +1,169 @@
+<?php
+$module_name = 'igwt_resources';
+$searchdefs [$module_name] = 
+array (
+  'layout' => 
+  array (
+    'basic_search' => 
+    array (
+      'resource_id' => 
+      array (
+        'type' => 'int',
+        'label' => 'LBL_RESOURCE_ID',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'resource_id',
+      ),
+      'name' => 
+      array (
+        'name' => 'name',
+        'default' => true,
+        'width' => '10%',
+      ),
+      'description' => 
+      array (
+        'type' => 'text',
+        'label' => 'LBL_DESCRIPTION',
+        'sortable' => false,
+        'width' => '10%',
+        'default' => true,
+        'name' => 'description',
+      ),
+    ),
+    'advanced_search' => 
+    array (
+      'resource_id' => 
+      array (
+        'type' => 'int',
+        'label' => 'LBL_RESOURCE_ID',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'resource_id',
+      ),
+      'name' => 
+      array (
+        'name' => 'name',
+        'default' => true,
+        'width' => '10%',
+      ),
+      'description' => 
+      array (
+        'type' => 'text',
+        'label' => 'LBL_DESCRIPTION',
+        'sortable' => false,
+        'width' => '10%',
+        'default' => true,
+        'name' => 'description',
+      ),
+      'file_name' => 
+      array (
+        'type' => 'varchar',
+        'label' => 'LBL_FILE_NAME',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'file_name',
+      ),
+      'allowed_downloads_set' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_ALLOWED_DOWNLOADS_SET',
+        'width' => '10%',
+        'name' => 'allowed_downloads_set',
+      ),
+      'allowed_downloads_value' => 
+      array (
+        'type' => 'int',
+        'label' => 'LBL_ALLOWED_DOWNLOADS_VALUE',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'allowed_downloads_value',
+      ),
+      'is_incentive' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_IS_INCENTIVE',
+        'width' => '10%',
+        'name' => 'is_incentive',
+      ),
+      'valid_from_value' => 
+      array (
+        'type' => 'date',
+        'label' => 'LBL_VALID_FROM_VALUE',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'valid_from_value',
+      ),
+      'valid_through_set' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_VALID_THROUGH_SET',
+        'width' => '10%',
+        'name' => 'valid_through_set',
+      ),
+      'goals_entered_set' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_GOALS_ENTERED_SET',
+        'width' => '10%',
+        'name' => 'goals_entered_set',
+      ),
+      'earned_points_set' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_EARNED_POINTS_SET',
+        'width' => '10%',
+        'name' => 'earned_points_set',
+      ),
+      'earned_points_value' => 
+      array (
+        'type' => 'int',
+        'label' => 'LBL_EARNED_POINTS_VALUE',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'earned_points_value',
+      ),
+      'url' => 
+      array (
+        'type' => 'text',
+        'studio' => 'visible',
+        'label' => 'LBL_URL',
+        'sortable' => false,
+        'width' => '10%',
+        'default' => true,
+        'name' => 'url',
+      ),
+      'valid_from_set' => 
+      array (
+        'type' => 'bool',
+        'default' => true,
+        'label' => 'LBL_VALID_FROM_SET',
+        'width' => '10%',
+        'name' => 'valid_from_set',
+      ),
+      'valid_through_value' => 
+      array (
+        'type' => 'date',
+        'label' => 'LBL_VALID_THROUGH_VALUE',
+        'width' => '10%',
+        'default' => true,
+        'name' => 'valid_through_value',
+      ),
+    ),
+  ),
+  'templateMeta' => 
+  array (
+    'maxColumns' => '3',
+    'maxColumnsBasic' => '4',
+    'widths' => 
+    array (
+      'label' => '10',
+      'field' => '30',
+    ),
+  ),
+);
+?>

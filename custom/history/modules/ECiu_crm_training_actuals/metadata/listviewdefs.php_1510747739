@@ -1,0 +1,44 @@
+<?php
+$module_name = 'ECiu_crm_training_actuals';
+$listViewDefs [$module_name] = 
+array (
+  'NUMBER_OF_PASTORS' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_NUMBER_OF_PASTORS',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DATE_FROM' => 
+  array (
+    'type' => 'date',
+    'label' => 'LBL_DATE_FROM',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DATE_TO' => 
+  array (
+    'type' => 'date',
+    'label' => 'LBL_DATE_TO',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ECIU_CRM_TRAINING_ACTUALS_ECIU_CRM_DEGREE_LEVELS_NAME' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'label' => 'LBL_ECIU_CRM_TRAINING_ACTUALS_ECIU_CRM_DEGREE_LEVELS_FROM_ECIU_CRM_DEGREE_LEVELS_TITLE',
+    'id' => 'ECIU_CRM_T341A_LEVELS_IDA',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ASSIGNED_USER_NAME' => 
+  array (
+    'width' => '9%',
+    'label' => 'LBL_ASSIGNED_TO_NAME',
+    'module' => 'Employees',
+    'id' => 'ASSIGNED_USER_ID',
+    'default' => true,
+  ),
+);
+?>

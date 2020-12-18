@@ -1,0 +1,26 @@
+<?php
+$dashletData['ECiu_ddcDashlet']['searchFields'] = array (
+  'date_entered' => 
+  array (
+    'default' => '',
+  ),
+  'date_modified' => 
+  array (
+    'default' => '',
+  ),
+  'assigned_user_id' => 
+  array (
+    'type' => 'assigned_user_name',
+    'default' => 'Administrator',
+  ),
+);
+$dashletData['ECiu_ddcDashlet']['columns'] = array (
+  'name' => 
+  array (
+    'width' => '40%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'default' => true,
+    'name' => 'name',
+  ),
+);

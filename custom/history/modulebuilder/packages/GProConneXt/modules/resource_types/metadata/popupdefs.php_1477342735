@@ -1,0 +1,39 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'ECiu_resource_types',
+    'varName' => 'ECiu_resource_types',
+    'orderBy' => 'eciu_resource_types.name',
+    'whereClauses' => array (
+  'name' => 'eciu_resource_types.name',
+),
+    'searchInputs' => array (
+  0 => 'eciu_resource_types_number',
+  1 => 'name',
+  2 => 'priority',
+  3 => 'status',
+),
+    'listviewdefs' => array (
+  'CATEGORY' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_CATEGORY',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'SUB_CATEGORY' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_SUB_CATEGORY',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+),
+);

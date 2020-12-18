@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20180125T113000Z
+DTEND:20180125T121000Z
+DTSTAMP:20180124T190655Z
+ORGANIZER;CN=GProCommission:mailto:eo8qefggjvpg9l9mei7tu5m8pc@group.calenda
+ r.google.com
+UID:532lhu43df96ens6aell1duht1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Ali Khalil;X-NUM-GUESTS=0:mailto:abtskhalil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=elie@gprocommission.org;X-NUM-GUESTS=0:mailto:elie@gprocommission.o
+ rg
+CREATED:20180124T190655Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nView your event at https://www.google.com/calendar/event?action=VIEW&
+ eid=NTMybGh1NDNkZjk2ZW5zNmFlbGwxZHVodDEgZWxpZUBncHJvY29tbWlzc2lvbi5vcmc&tok
+ =NTIjZW84cWVmZ2dqdnBnOWw5bWVpN3R1NW04cGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbW
+ U3ZDdiODMwMzY4M2FiMjE5MjljM2M3NTkyYzNlYTY4NzU5ZGZjNTg&ctz=America/Chicago&h
+ l=en.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20180124T190655Z
+LOCATION:Zoom 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Middle East call: Edie | Elie | Ali
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

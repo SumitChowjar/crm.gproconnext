@@ -1,0 +1,17 @@
+<?php // created: Thu, 11 Jan 2018 05:50:22 +0000
+	$cacheFile = array (
+  'timestamp' => 1515649822,
+  'out' => 'a:1:{s:4:"meta";a:7:{s:4:"type";s:7:"inbound";s:3:"uid";s:3:"262";s:4:"ieId";s:36:"2ba409c8-a108-bfb6-e31a-5a37db5d6d72";s:5:"email";a:11:{s:4:"name";s:11:"Re: Testing";s:9:"from_name";s:35:"Edie Ross <edie@gprocommission.org>";s:9:"from_addr";s:41:"Edie Ross &lt;edie@gprocommission.org&gt;";s:10:"date_start";s:19:"2018-01-10 18:22:00";s:10:"time_start";s:0:"";s:10:"message_id";s:32:"c145553474a5161f139f06f0e426b7fd";s:8:"cc_addrs";N;s:11:"attachments";s:0:"";s:7:"toaddrs";s:45:"Nadine Karam &lt;karam@gprocommission.org&gt;";s:11:"description";s:2702:"<div dir="ltr">Got it! Did you get this back? </div><div class="gmail_extra"><br /><div class="gmail_quote">On Wed, Jan 10, 2018 at 10:53 AM, Nadine Karam <span dir="ltr">&lt;<a href="mailto:karam@gprocommission.org">karam@gprocommission.org</a>&gt;</span> wrote:<br /><blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;"><u></u>
+
+
+
+<div>
+Bless you
+</div>
+
+
+</blockquote></div><br /><br clear="all" /><div><br /></div>-- <br /><div class="gmail_signature"><div dir="ltr"><div><div dir="ltr"><div><div dir="ltr"><div dir="ltr"><div dir="ltr"><p style="padding:0px;"><span style="background-color:rgb(255,255,255);"><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:10pt;"><i>Edie Ross<br /></i></span><i style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:10pt;">GProCentral Manager</i></span></p><div><p style="padding:0px;"><font color="#000000" face="Arial, Helvetica, sans-serif"><span style="font-size:13.3333px;background-color:rgb(255,255,255);"><i>GProCommission.org: Connecting, Uniting, Strengthening Trainers of Pastors</i></span></font></p><p style="padding:0px;"><span style="background-color:rgb(255,255,255);"><i style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;"><b style="font-size:10pt;">m</b><span style="font-size:10pt;">: <a style="color:rgb(17,85,204);">+1</a>7853414294 | </span><b style="font-size:10pt;">skype</b><span style="font-size:10pt;">: mrs.edie.ross</span><span style="font-size:13.3333px;"><br /></span></i><b style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12.8px;"><a href="http://gprocommission.org/blog" style="color:rgb(17,85,204);">Articles</a></b><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:10pt;"> | </span><b><font color="#0000ee" face="Arial, Helvetica, sans-serif"><u>Facebook</u></font><font color="#000000" face="Arial, Helvetica, sans-serif"><span style="font-size:12.8px;"> </span></font></b><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12.8px;">| <a href="https://gproconnext.com/register" style="color:rgb(17,85,204);"><b>GProConneXt</b></a></span></span></p><p style="font-size:12.8px;padding:0px;"><font color="#000000" face="Arial, Helvetica, sans-serif"><b>Ramesh Richard Evangelism and Church Health<br /></b></font><font color="#999999" face="Arial, Helvetica, sans-serif" style="font-size:12.8px;">17110 Dallas Pkwy #230, </font><span style="font-size:12.8px;color:rgb(153,153,153);font-family:Arial, Helvetica, sans-serif;">Dallas, TX 75248</span></p></div></div></div></div></div></div></div></div></div>
+</div>
+";s:13:"reply_to_addr";s:41:"Edie Ross &lt;edie@gprocommission.org&gt;";}s:4:"mbox";s:5:"INBOX";s:2:"cc";s:0:"";s:13:"is_sugarEmail";b:0;}}',
+);
+?>

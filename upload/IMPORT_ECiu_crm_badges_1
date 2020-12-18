@@ -1,0 +1,36 @@
+Badge ID,Table Reference,Name,Description,How to obtain,Logo Address
+1,ECiu_social_badges_maps,Publisher,Loves contributing articles.,"To unlock this badge, you need to create up to 50 new articles.",/badges/publisher.png
+2,ECiu_social_badges_maps,Proof Reading,Great proof reading skills,"To unlock this badge, you need to update 50 existing articles.",/badges/proof-reading.png
+3,ECiu_social_badges_maps,Great Reader,Loves reading through articles.,"To unlock this badge, you need to read up to 100 articles.",/badges/great-reader.png
+4,ECiu_social_badges_maps,Applicant,Loves installing apps,"To unlock this badge, you need to install more than 10 apps for your profile.",/badges/applicant.png
+5,ECiu_social_badges_maps,Chatter,Loves to chat with users on the site.,"To unlock this badge, you need to reply to any conversations for at least 150 times.",/badges/chatter.png
+6,ECiu_social_badges_maps,Socializer,Loves socializing with their friends.,"To unlock this badge, start a new conversation with 15 friends.",/badges/socializer.png
+7,ECiu_social_badges_maps,Gossiper,Nobody can stop them from gossiping!,"To unlock this badge, invite more than 10 users into any existing conversation.",/badges/gossiper.png
+8,ECiu_social_badges_maps,Leaver,You really love to leave conversations?,"To unlock this badge, leave more than 20 group conversations.",/badges/leaver.png
+9,ECiu_social_badges_maps,Follower,Loves following other users on the site.,"To unlock this badge, follow more than 60 users from the site.",/badges/follower.png
+10,ECiu_social_badges_maps,Thought Leader,Thought leader on the site.,"To unlock this badge, you need to have at least 60 new followers.",/badges/thought-leader.png
+11,ECiu_social_badges_maps,Friend Hater,You hate your friends?,"To unlock this badge, you need to remove more than 10 of your friends.",/badges/friend-hater.png
+12,ECiu_social_badges_maps,Friend Seeker,Loves to build new friendships with others.,"To unlock this badge, you need to initiate more than 30 friend requests with other users on the site.",/badges/friend-seeker.png
+13,ECiu_social_badges_maps,Friend Organizer,Someone who loves to organize their friends.,"To unlock this badge, create 10 friend lists to organize your friends.",/badges/friend-organizer.png
+14,ECiu_social_badges_maps,Friend Registered,Loves to invite new friend to join community.,"To unlock this badge, you need to get more than 10 of your invited friends to register on the site.",/badges/invite-friend-register.png
+15,ECiu_social_badges_maps,Photogenic,Photo uploader,"To unlock this badge, you need to upload 30 new photos on the site.",/badges/photogenic.png
+16,ECiu_social_badges_maps,Journalist,Loves browsing photos,"To unlock this badge, you need to browse more than 150 photos on the site.",/badges/journalist.png
+17,ECiu_social_badges_maps,Photo Tagger,Tag other users in the photo,"To unlock this badge, you need to tag 50 people in different photos.",/badges/photo-tagger.png
+18,ECiu_social_badges_maps,Super Star,Tagged in 50 Photos,"To unlock this badge, you need to be tagged by 50 of your friends in different photos.",/badges/super-star.png
+19,ECiu_social_badges_maps,Points Achiever,Earn points on the site.,"To unlock this badge, you need to earn points for 100 times from the site.",/badges/points-achiever.png
+20,ECiu_social_badges_maps,Explorer,Window shoppper for users,"To unlock this badge, you need to view at least 50 user profiles.",/badges/explorer.png
+21,ECiu_social_badges_maps,Newbie,Congrats on registering on the site!,"To unlock this badge, you need to register on this site.",/badges/newbie.png
+22,ECiu_social_badges_maps,Reporter,Very helpful person.,"To unlock this badge, you need to report for more than 20 times.",/badges/reporter.png
+23,ECiu_social_badges_maps,Search Engine,Loves searching on the site,"To unlock this badge, you need to search for more than 50 times.",/badges/search-engine.png
+24,ECiu_social_badges_maps,Story Teller,Loves sharing stories.,"To unlock this badge, you need to post at least 30 different story posts.",/badges/story-teller.png
+1,ECiu_discuss_badges_users,Motivator,Voted replies 100 times.,"To unlock this badge, you must vote to 100 different on different forum items",/badges/motivator.png
+2,ECiu_discuss_badges_users,Hole-in-One,Accepted 50 replies as answers.,"To unlock this badge, you have to accept 50 replies as answers on the forums",/badges/hole-in-one.png
+3,ECiu_discuss_badges_users,Smile Seeker,Liked 100 discussions.,"To unlock this badge, 100 likes have to be given on different discussions",/badges/busybody.png
+4,ECiu_discuss_badges_users,Love Fool,Liked 100 replies.,"To unlock this badge, 100 likes have to be given on different discussion replies",/badges/love-fool.png
+5,ECiu_discuss_badges_users,Vanity Monster,Updated 5 avatars in profile.,"To unlock this badge, you must have updated your profile picture at least 5 times already",/badges/vanity-monster.png
+6,ECiu_discuss_badges_users,Sherlock Holmes,Started 10 discussions.,"To unlock this badge, you must have started at least 10 discussions",/badges/sherlock-holmes.png
+7,ECiu_discuss_badges_users,The Voice,Posted 100 replies.,"To unlock this badge, you have to be activily participating on the forums and have responded at least 100 times",/badges/the-voice.png
+8,ECiu_discuss_badges_users,Bookworm,Read 50 discussions.,"To unlock this badge, you would have to read 50 discussions at least",/badges/bookworm.png
+9,ECiu_discuss_badges_users,Peacemaker,Updated 50 discussions to resolved.,"To unlock this badge, you have to mark 50 different discussions are resolved",/badges/peacemaker.png
+10,ECiu_discuss_badges_users,Attention!,Updated profile 50 times.,"To unlock this badge, you must have updated your profile at least 50 times already",/badges/attention.png
+11,ECiu_discuss_badges_users,Firestarter,Posted 100 comments.,"To unlock this badge, you need post at least 100 comments on the forums",/badges/firestarter.png

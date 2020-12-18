@@ -1,0 +1,32 @@
+<?php
+$popupMeta = array (
+    'moduleMain' => 'ECiu_resources',
+    'varName' => 'ECiu_resources',
+    'orderBy' => 'eciu_resources.name',
+    'whereClauses' => array (
+  'name' => 'eciu_resources.name',
+),
+    'searchInputs' => array (
+  0 => 'eciu_resources_number',
+  1 => 'name',
+  2 => 'priority',
+  3 => 'status',
+),
+    'listviewdefs' => array (
+  'RESOURCE_ID' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_RESOURCE_ID',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'NAME' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '10%',
+    'default' => true,
+  ),
+),
+);

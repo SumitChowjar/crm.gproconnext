@@ -1,0 +1,109 @@
+<?php
+// created: 2017-09-01 06:47:49
+$layout_defs = array (
+  'number_of_pastors' => 
+  array (
+    'type' => 'int',
+    'vname' => 'LBL_NUMBER_OF_PASTORS',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'eciu_crm_training_actuals_eciu_crm_language_list_name' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'vname' => 'LBL_ECIU_CRM_TRAINING_ACTUALS_ECIU_CRM_LANGUAGE_LIST_FROM_ECIU_CRM_LANGUAGE_LIST_TITLE',
+    'id' => 'ECIU_CRM_TE07CGE_LIST_IDA',
+    'width' => '10%',
+    'default' => true,
+    'widget_class' => 'SubPanelDetailViewLink',
+    'target_module' => 'ECiu_crm_language_list',
+    'target_record_key' => 'eciu_crm_te07cge_list_ida',
+  ),
+  'date_from' => 
+  array (
+    'type' => 'date',
+    'vname' => 'LBL_DATE_FROM',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'date_to' => 
+  array (
+    'type' => 'date',
+    'vname' => 'LBL_DATE_TO',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'hours' => 
+  array (
+    'type' => 'int',
+    'vname' => 'LBL_HOURS',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'recourd_type' => 
+  array (
+    'type' => 'enum',
+    'studio' => 'visible',
+    'vname' => 'LBL_RECOURD_TYPE',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'resource_pro_c' => 
+  array (
+    'type' => 'relate',
+    'default' => true,
+    'studio' => 'visible',
+    'vname' => 'LBL_RESOURCE_PRO',
+    'id' => 'ECIU_CRM_RESOURCES_ID_C',
+    'link' => true,
+    'width' => '10%',
+    'widget_class' => 'SubPanelDetailViewLink',
+    'target_module' => 'ECiu_crm_resources',
+    'target_record_key' => 'eciu_crm_resources_id_c',
+  ),
+  'other_pastoral_trainers_c' => 
+  array (
+    'type' => 'relate',
+    'default' => true,
+    'studio' => 'visible',
+    'vname' => 'LBL_OTHER_PASTORAL_TRAINERS',
+    'id' => 'CONTACT_ID_C',
+    'link' => true,
+    'width' => '10%',
+    'widget_class' => 'SubPanelDetailViewLink',
+    'target_module' => 'Contacts',
+    'target_record_key' => 'contact_id_c',
+  ),
+  'additional_notes_c' => 
+  array (
+    'type' => 'text',
+    'default' => true,
+    'studio' => 'visible',
+    'vname' => 'LBL_ADDITIONAL_NOTES',
+    'sortable' => false,
+    'width' => '10%',
+  ),
+  'date_modified' => 
+  array (
+    'vname' => 'LBL_DATE_MODIFIED',
+    'width' => '45%',
+    'default' => true,
+  ),
+  'edit_button' => 
+  array (
+    'vname' => 'LBL_EDIT_BUTTON',
+    'widget_class' => 'SubPanelEditButton',
+    'module' => 'ECiu_crm_training_actuals',
+    'width' => '4%',
+    'default' => true,
+  ),
+  'remove_button' => 
+  array (
+    'vname' => 'LBL_REMOVE',
+    'widget_class' => 'SubPanelRemoveButton',
+    'module' => 'ECiu_crm_training_actuals',
+    'width' => '5%',
+    'default' => true,
+  ),
+);

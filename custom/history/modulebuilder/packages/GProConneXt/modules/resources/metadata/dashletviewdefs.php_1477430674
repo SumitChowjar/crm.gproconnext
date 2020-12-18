@@ -1,0 +1,33 @@
+<?php
+$dashletData['ECiu_resourcesDashlet']['searchFields'] = array (
+  'date_entered' => 
+  array (
+    'default' => '',
+  ),
+  'date_modified' => 
+  array (
+    'default' => '',
+  ),
+  'assigned_user_id' => 
+  array (
+    'type' => 'assigned_user_name',
+    'default' => 'Administrator',
+  ),
+);
+$dashletData['ECiu_resourcesDashlet']['columns'] = array (
+  'resource_id' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_RESOURCE_ID',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'name' => 
+  array (
+    'width' => '40%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'default' => true,
+    'name' => 'name',
+  ),
+);

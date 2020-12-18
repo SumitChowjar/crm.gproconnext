@@ -1,0 +1,24 @@
+<?php
+$dashletData['ECiu_tracksDashlet']['searchFields'] = array (
+  'name' => 
+  array (
+    'default' => '',
+  ),
+);
+$dashletData['ECiu_tracksDashlet']['columns'] = array (
+  'track_id' => 
+  array (
+    'type' => 'int',
+    'label' => 'LBL_TRACK_ID',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'name' => 
+  array (
+    'width' => '40%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'default' => true,
+    'name' => 'name',
+  ),
+);
